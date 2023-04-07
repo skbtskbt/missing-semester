@@ -1,3 +1,4 @@
+Xi changed this file for git-scm tutorial.
 ---
 layout: lecture
 title: "Why we are teaching this class"
